@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="320" />
-##Hi welcome to my github profile👋
-## I'm a Student 👨‍🎓, Backe-End  🚀, Writer ✍ 
+## Hi welcome to my github profile👋
+## I'm a Student 👨‍🎓, Back-End Developer  🚀, Writer ✍ 
 - 🌱 I’m currently learning 😂
 - 🥅 2021 Goals: Developing an app to be heard in the world 🌎 
 - ⚡ Fun fact: I love to swim 🏊‍♀️,play voleyball🏀 and cycling 🚴‍♀️
@@ -13,10 +13,7 @@ I'm doing an internship 🚀
 <br />
 
 ### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://www.linkedin.com/in/k%C3%BCbra-ko%C3%A7yi%C4%9Fit-708286189/" />][linkedin]
-
-
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://www.linkedin.com/in/k%C3%BCbra-ko%C3%A7yi%C4%9Fit-708286189/" /> ][linkedin]
 <br />
 
 ### 🔧 Languages and Tools:
