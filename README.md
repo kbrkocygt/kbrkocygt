@@ -1,5 +1,5 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="320" />
+##Hi welcome to my github profile👋
 ## I'm a Student 👨‍🎓, Backe-End  🚀, Writer ✍ 
 - 🌱 I’m currently learning 😂
 - 🥅 2021 Goals: Developing an app to be heard in the world 🌎 
