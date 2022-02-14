@@ -28,11 +28,7 @@ I'm doing an internship 🚀
 
 <br />
 
-### GitHub Analytics 📊
-***
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=irem6142&show_icons=true&theme=radical)
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kbrkocygt_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
+
 
 <br />
 <br />
