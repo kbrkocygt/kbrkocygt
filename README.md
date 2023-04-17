@@ -7,7 +7,7 @@
 
 
 ## ⏲ What we are doing now:
-I'm doing an internship 🚀
+I'm working a software developer 🚀
 
 
 <br />
