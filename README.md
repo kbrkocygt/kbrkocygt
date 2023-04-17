@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="320" />
 
 ## Hi welcome to my github profile👋
-   I'm a Computer Engineering 👨‍🎓, Software Developer  🚀, Writer ✍ 
+   I'm a Computer Engineer 👨‍🎓, Software Developer  🚀, Writer ✍ 
 - 🌱 I’m currently learning 
 - ⚡ Fun fact: I love to swim 🏊‍♀️,play voleyball🏀 and cycling 🚴‍♀️
 
