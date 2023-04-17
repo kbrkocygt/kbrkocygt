@@ -1,9 +1,8 @@
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="320" />
 
 ## Hi welcome to my github profile👋
-   I'm a Student 👨‍🎓, Back-End Developer  🚀, Writer ✍ 
-- 🌱 I’m currently learning 😂
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 
+   I'm a Computer Engineering 👨‍🎓, Software Developer  🚀, Writer ✍ 
+- 🌱 I’m currently learning 
 - ⚡ Fun fact: I love to swim 🏊‍♀️,play voleyball🏀 and cycling 🚴‍♀️
 
 
