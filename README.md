@@ -43,7 +43,7 @@ I'm working a software developer 🚀
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/k%C3%BCbra-ko%C3%A7yi%C4%9Fit-708286189/
+[linkedin]: https://www.linkedin.com/in/k%C3%BCbra-ko%C3%A7yi%C4%9Fit/
 [gmail]: mailto:kcygt.kbra@gmail.com
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
