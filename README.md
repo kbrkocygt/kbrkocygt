@@ -47,11 +47,16 @@ MovieApp is a backend API that provides movie data, search and favourites functi
 </p>
 
 **Core Features:**  
-- RESTful endpoints for movie search  
-- Integration with third-party movie API  
-- Favorites list with persistent storage  
-- Pagination & filtering  
-- Secure API design with best practices
+- Core → Domain models & interfaces
+- Infrastructure → Data access & external integrations
+- Presentation → ASP.NET Core Web API layer
+- Frontend → Client interface layer
+
+**Architecture Focus**
+- Dependency inversion applied
+- Domain layer independent from frameworks
+- EF Core isolated in Infrastructure
+- Clean and testable structure
 
 ---
 
@@ -77,5 +82,5 @@ Building backend systems since 2022 with a focus on clean architecture and scala
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kbrkocygt&show_icons=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=kbrkocygt&show_icons=true&theme=tokyonight&cache_seconds=60"/>
 </p>
