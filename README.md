@@ -1,59 +1,77 @@
-<h1 align="center">Hi 👋, I'm Kübra Oktay</h1>
-<h3 align="center">Backend-focused .NET Engineer | Microservices & Clean Architecture</h3>
+<h1 align="center">Kübra Oktay</h1>
+<h3 align="center">Backend Engineer (.NET) | Microservices | Clean Architecture</h3>
 
 ---
 
-### 🚀 About Me
+## 👩‍💻 About Me
 
-Backend-focused Software Engineer with 3+ years of experience building scalable and maintainable systems.
+Backend-focused Software Engineer with 3+ years of professional experience in building scalable and maintainable backend systems.
 
-I specialize in:
+I focus on:
 
-- Designing RESTful APIs with **.NET Core**
-- Implementing **Clean Architecture & SOLID principles**
-- Building **Microservice-based systems**
+- Designing robust REST APIs with **ASP.NET Core**
+- Applying **Clean Architecture & SOLID principles**
+- Developing **Microservice-based distributed systems**
 - Performance optimization & database design
-- Secure integrations (payment systems, external APIs)
+- Secure external integrations (payment systems, third-party APIs)
 
-Currently deepening my expertise in **Microservices architecture, distributed systems and DevOps practices.**
+I care about writing readable, maintainable and production-ready code.
 
 ---
 
-### 🛠 Core Tech Stack
+## 🧠 Core Expertise
 
-**Backend**
+### Backend
 - C# | .NET Core | ASP.NET Web API
 - Entity Framework Core
-- RESTful Services
-- Microservices Architecture
+- RESTful Architecture
+- Microservices
 - RabbitMQ | Redis
 
-**Database**
+### Databases
 - SQL Server
 - PostgreSQL
 
-**DevOps & Tools**
+### DevOps & Infrastructure
 - Docker
 - Git
-- CI/CD basics
+- CI/CD fundamentals
 - Postman
 
 ---
 
-### 🌍 Portfolio
+## 📦 Featured Projects
 
-👨‍💻 All projects:  
-👉 http://kubrakocyigit.com.tr/
+### 🔹 Clean Architecture Web API
+Enterprise-ready Web API built with Clean Architecture principles.
+- Layered structure (Domain, Application, Infrastructure)
+- Dependency Injection
+- Validation Pipeline
+- Global Exception Handling
+
+### 🔹 Microservices Demo System
+Distributed system using:
+- ASP.NET Core
+- RabbitMQ for async communication
+- Dockerized services
+- PostgreSQL
+
+### 🔹 Payment Integration Sample
+Secure payment workflow implementation including:
+- Role-based authentication
+- Token-based authorization
+- Logging & error handling
 
 ---
 
-### 📫 Contact
+
+## 📫 Contact
 
 📧 kubraooktay@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/kübra-oktay/
+🔗 LinkedIn: https://www.linkedin.com/in/kübra-koçyiğit/
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<!-- İstersen buraya github stats badge ekleyebiliriz -->
+Consistent commits focused on backend architecture, distributed systems and production-grade patterns.
