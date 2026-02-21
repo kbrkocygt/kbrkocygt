@@ -8,9 +8,6 @@
   <a href="mailto:kubraooktay@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="http://kubrakocyigit.com.tr/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -79,6 +76,6 @@ Building backend systems since 2022 with a focus on clean architecture and scala
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Streak
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kbrkocygt&show_icons=true&cache_seconds=1800&hide_rank=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kbrkocygt&theme=blueberry_duo)](https://git.io/streak-stats)
