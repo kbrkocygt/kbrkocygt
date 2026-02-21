@@ -74,8 +74,6 @@ Building backend systems since 2022 with a focus on clean architecture and scala
   <img src="https://skillicons.dev/icons?i=dotnet,docker,redis,mongodb,postgres,git,rabbitmq" />
 </p>
 
----
 
-## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kbrkocygt&theme=blueberry_duo)](https://git.io/streak-stats)
+
