@@ -82,5 +82,5 @@ Building backend systems since 2022 with a focus on clean architecture and scala
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=kbrkocygt&show_icons=true&theme=tokyonight&cache_seconds=60"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kbrkocygt&show_icons=true&theme=tokyonight"/>
 </p>
