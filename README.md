@@ -1,59 +1,117 @@
-<h1 align="center">Hi, I'm Kübra 👋</h1>
-<h3 align="center">Backend Engineer (.NET) | Building Scalable Systems</h3>
+# 🛒 MultiShop – Microservice Based E-Commerce Backend
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kübra-koçyiğit/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="http://kubrakocyigit.com.tr/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="mailto:kubraooktay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+MultiShop is a distributed e-commerce backend system designed with a microservice architecture and API Gateway pattern.
+
+This project focuses on scalability, service isolation and production-style backend engineering practices.
 
 ---
 
-## 🚀 What I Build
+## 🏗 Architecture Overview
 
-I design and develop production-ready backend systems using:
+MultiShop is built using an API Gateway and independent microservices with isolated databases.
 
+![MultiShop Microservice Diagram](images/multishop-diagram.png)
+
+### 🔹 Architecture Highlights
+
+- Ocelot API Gateway for routing & aggregation
+- Identity Server for authentication & token management
+- Independent microservices with separate databases
+- Redis for basket management
+- RabbitMQ for asynchronous communication
+- Dockerized service infrastructure
+- Service-to-service communication strategy
+- Production-style layered architecture
+
+---
+
+## 🧩 Microservices
+
+| Service      | Database        | Purpose |
+|-------------|----------------|---------|
+| Identity     | SQL Server     | Authentication & token management |
+| Catalog      | MongoDB        | Product & category management |
+| Basket       | Redis          | Cart operations |
+| Cargo        | SQL Server     | Shipping management |
+| Order        | SQL Server     | Order processing |
+| Discount     | SQL Server     | Discount logic |
+| Comment      | SQL Server     | Product reviews |
+| Message      | PostgreSQL     | User messaging |
+| Images       | Google Cloud   | Image storage |
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
 - ASP.NET Core
-- Clean Architecture
-- Microservices
-- SQL Server & PostgreSQL
-- RabbitMQ & Redis
+- C#
+- Ocelot API Gateway
+- Entity Framework Core
+- Dapper
+- JWT Authentication
+- SignalR
+
+### Databases
+- SQL Server
+- MongoDB
+- PostgreSQL
+- Redis
+
+### Infrastructure
 - Docker
+- RabbitMQ
+- Portainer
+- Postman
 
 ---
 
-## 📦 My Projects
+## 🎯 Design Goals
 
-### 🛒 MultiShop – E-Commerce Backend API
-
-RESTful e-commerce backend built with Clean Architecture principles.
-
-**Tech Stack:**  
-ASP.NET Core • EF Core • SQL Server • JWT • AutoMapper
-
-**Focus:**  
-Scalable API design, authentication flow, layered architecture
-
-👉 [View Repository](https://github.com/kbrkocygt/MUlLT-SHOP)
+- Service isolation with independent databases
+- Loose coupling via messaging
+- API Gateway pattern implementation
+- Scalable distributed architecture
+- Maintainable layered structure
+- Production-like environment simulation
 
 ---
 
-## 🌱 Currently Exploring
+## 🔐 Security
 
-- Advanced Microservice patterns
-- Distributed system design
-- Performance optimization strategies
+- JWT-based authentication
+- Role-based authorization
+- Identity service token validation
+- Secure service communication patterns
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Key Engineering Practices
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kbrkocygt&show_icons=true&theme=tokyonight" />
-</p>
+- Clean separation of concerns
+- Dependency Injection
+- Middleware-based global exception handling
+- Structured logging
+- Configuration management
+- Dockerized microservice environment
+
+---
+
+## 📌 Why This Project Matters
+
+MultiShop demonstrates how to design and structure a distributed backend system beyond a simple CRUD API.
+
+It reflects real-world backend engineering concerns such as:
+
+- Scalability
+- Fault isolation
+- Asynchronous communication
+- Service orchestration
+- Maintainability
+
+---
+
+## 📫 Contact
+
+📧 kubraooktay@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kübra-koçyiğit/
