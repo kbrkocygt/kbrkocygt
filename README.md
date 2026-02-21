@@ -1,73 +1,80 @@
 <h1 align="center">Hi, I'm Kübra 👋</h1>
+<h3 align="center">Backend Engineer (.NET) building scalable distributed systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kübra-oktay/">
+  <a href="https://www.linkedin.com/in/kübra-koçyiğit/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kubraooktay@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="http://kubrakocyigit.com.tr/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## My Projects
+## 🚀 My Projects
 
-### 🛒 MultiShop – Microservice Based E-Commerce System  
-👉 [GitHub Repository](https://github.com/kbrkocygt/MUlLT-SHOP)
+---
 
-MultiShop is a distributed e-commerce backend built using microservice architecture and API Gateway pattern.
+### 🛒 MultiShop — Microservice Based E-Commerce System  
+👉 [GitHub Repo](https://github.com/kbrkocygt/MUlLT-SHOP)
+
+MultiShop is a distributed e-commerce backend built with API Gateway and independent microservices.
 
 <p align="center">
-  <img src="./images/multishop-diagram.png" width="900"/>
+  <img width="818" height="921" alt="MultiShop_Diagram" src="https://github.com/user-attachments/assets/399f77a5-4811-4c72-b9b7-7e31fe2de178" />
 </p>
 
-MultiShop demonstrates:
-- API Gateway with Ocelot
-- Independent services with isolated databases
-- Redis for basket management
-- RabbitMQ for async communication
-- Dockerized infrastructure
-- Production-style backend structure
+**Focus Areas:**  
+- API Gateway with Ocelot  
+- Independent services with isolated databases  
+- Redis cache for basket service  
+- Async messaging via RabbitMQ  
+- Dockerized microservice infrastructure
 
 ---
 
-### 🧩 CV Analyzer – Clean Architecture API  
-👉 [GitHub Repository](YOUR_LINK_HERE)
+### 🎬 MovieApp — Movie Info & Favorites API  
+👉 [GitHub Repo](https://github.com/kbrkocygt/MovieApp)
 
-A backend API that analyzes CVs against job descriptions using structured architecture and layered design.
+MovieApp is a backend API that provides movie data, search and favourites functionality.
 
-Focus areas:
-- Clean Architecture (Domain / Application / Infrastructure)
-- RESTful API design
-- Validation pipeline
-- DTO mapping
-- Production-ready error handling
+<p align="center">
+  <img src="./images/movieapp-screenshot.png" width="900" />
+</p>
 
----
-
-## About Me
-
-Creating backend systems since 2022.
-
-Currently exploring:
-- Advanced Microservices patterns
-- Distributed system design
-- Performance optimization strategies
-
-Goal: Build scalable, maintainable and production-ready backend systems.
+**Core Features:**  
+- RESTful endpoints for movie search  
+- Integration with third-party movie API  
+- Favorites list with persistent storage  
+- Pagination & filtering  
+- Secure API design with best practices
 
 ---
 
-## Tools I Use
+## 📌 About Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,docker,redis,mongodb,postgres,git,rabbitmq" />
+Building backend systems since 2022 with a focus on clean architecture and scalable services.
+
+🎯 Current goals:
+- Deepen microservices & distributed system skills  
+- Improve performance and reliability strategies  
+- Build production-grade systems
+
+---
+
+## 🛠 Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,docker,redis,mongodb,postgres,git,rabbitmq" />
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kbrkocygt&show_icons=true"/>
