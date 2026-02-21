@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHzNF58bwqN-Q/profile-displaybackgroundimage-shrink_350_1400/B4DZWHK4tGHAAc-/0/1741729544488?e=1747267200&v=beta&t=OzksbwuYfXN9exLd4gNUcXMiLQpHNJu3_Q5PKeuAtwc)
-
 <h1 align="center">Hi 👋, I'm Kübra Oktay</h1>
 <h3 align="center">Backend-focused .NET Engineer | Microservices & Clean Architecture</h3>
 
