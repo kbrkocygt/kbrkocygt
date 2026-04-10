@@ -1,79 +1,65 @@
 <h1 align="center">Hi, I'm Kübra 👋</h1>
-<h3 align="center">Backend Engineer (.NET) building scalable distributed systems</h3>
+<h3 align="center">Backend Developer (.NET) focused on scalable systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kübra-koçyiğit/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kubraooktay@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 My Projects
-
----
+## 🚀 Featured Projects
 
 ### 🛒 MultiShop — Microservice Based E-Commerce System  
-👉 [GitHub Repo](https://github.com/kbrkocygt/MUlLT-SHOP)
+👉 https://github.com/kbrkocygt/multishop-microservices
 
-MultiShop is a distributed e-commerce backend built with API Gateway and independent microservices.
+Microservice-based e-commerce backend system built with API Gateway and RabbitMQ.
 
-<p align="center">
-  <img width="818" height="921" alt="MultiShop_Diagram" src="https://github.com/user-attachments/assets/399f77a5-4811-4c72-b9b7-7e31fe2de178" />
-</p>
-
-**Focus Areas:**  
-- API Gateway with Ocelot  
-- Independent services with isolated databases  
-- Redis cache for basket service  
-- Async messaging via RabbitMQ  
-- Dockerized microservice infrastructure
+**Key Highlights:**
+- API Gateway (Ocelot)
+- Independent microservices & databases
+- Redis caching (Basket Service)
+- Asynchronous communication with RabbitMQ
+- Dockerized infrastructure
 
 ---
 
-### 🎬 MovieApp — Movie Info & Favorites API  
-👉 [GitHub Repo](https://github.com/kbrkocygt/MovieApp)
+### 🎬 Movie API — Clean Architecture Backend  
+👉 https://github.com/kbrkocygt/movie-api
 
-MovieApp is a backend API that provides movie data, search and favourites functionality.
+Backend API designed with Clean Architecture principles.
 
-<p align="center">
-  <img src="./images/movieapp-screenshot.png" width="900" />
-</p>
-
-**Core Features:**  
-- Core → Domain models & interfaces
-- Infrastructure → Data access & external integrations
-- Presentation → ASP.NET Core Web API layer
-- Frontend → Client interface layer
-
-**Architecture Focus**
-- Dependency inversion applied
-- Domain layer independent from frameworks
-- EF Core isolated in Infrastructure
-- Clean and testable structure
+**Key Highlights:**
+- Layered architecture (Core, Infrastructure, Presentation)
+- Dependency inversion
+- EF Core & Dapper usage
+- Maintainable and testable structure
 
 ---
 
-## 📌 About Me
+## 🧠 About Me
 
-Building backend systems since 2022 with a focus on clean architecture and scalable services.
-
-🎯 Current goals:
-- Deepen microservices & distributed system skills  
-- Improve performance and reliability strategies  
-- Build production-grade systems
+- 3+ years of backend development experience  
+- Working with ASP.NET Core, Web API, and databases  
+- Interested in microservices and system design  
+- Focused on clean and scalable code  
 
 ---
 
-## 🛠 Tools I Use
+## 🎯 Current Focus
+
+- Improving microservices architecture skills  
+- Building production-ready backend systems  
+- Preparing for backend developer roles  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,docker,redis,mongodb,postgres,git,rabbitmq" />
 </p>
-
-
-
-
