@@ -43,7 +43,7 @@ Backend API designed with Clean Architecture principles.
 
 ## 🧠 About Me
 
-- 3+ years of backend development experience  
+- 3.5+ years of backend development experience  
 - Working with ASP.NET Core, Web API, and databases  
 - Interested in microservices and system design  
 - Focused on clean and scalable code  
