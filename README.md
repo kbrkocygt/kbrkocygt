@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Kübra 👋</h1>
-<h3 align="center">Backend Developer (.NET) focused on scalable systems</h3>
+<h1 align="center">Hey, I'm Kübra 👋</h1>
+
+<h3 align="center">Backend Developer · .NET · Microservices</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kübra-koçyiğit/">
@@ -12,54 +13,39 @@
 
 ---
 
-## 🚀 Featured Projects
+I'm a backend developer with 3.5+ years of experience, mostly working with .NET and ASP.NET Core. I like knowing how things work under the hood — which is probably why I ended up in backend.
 
-### 🛒 MultiShop — Microservice Based E-Commerce System  
+These days I'm spending a lot of time on microservices and distributed systems. Not because it's trendy, but because I genuinely find the design problems interesting.
+
+---
+
+## Things I've built
+
+### 🛒 MultiShop — Microservice E-Commerce Backend
 👉 https://github.com/kbrkocygt/multishop-microservices
 
-Microservice-based e-commerce backend system built with API Gateway and RabbitMQ.
-
-**Key Highlights:**
-- API Gateway (Ocelot)
-- Independent microservices & databases
-- Redis caching (Basket Service)
-- Asynchronous communication with RabbitMQ
-- Dockerized infrastructure
+An e-commerce backend split into independent services — each with its own database. Services talk to each other via RabbitMQ, Ocelot handles the gateway, and Redis takes care of the basket. Everything runs in Docker.
 
 ---
 
-### 🎬 Movie API — Clean Architecture Backend  
+### 🎬 Movie API — Clean Architecture
 👉 https://github.com/kbrkocygt/movie-api
 
-Backend API designed with Clean Architecture principles.
-
-**Key Highlights:**
-- Layered architecture (Core, Infrastructure, Presentation)
-- Dependency inversion
-- EF Core & Dapper usage
-- Maintainable and testable structure
+A REST API built around Clean Architecture. Core logic stays isolated, EF Core and Dapper handle data access depending on the need. The goal was to make it easy to test and change things without everything breaking.
 
 ---
 
-## 🧠 About Me
-
-- 3.5+ years of backend development experience  
-- Working with ASP.NET Core, Web API, and databases  
-- Interested in microservices and system design  
-- Focused on clean and scalable code  
-
----
-
-## 🎯 Current Focus
-
-- Improving microservices architecture skills  
-- Building production-ready backend systems  
-- Preparing for backend developer roles  
-
----
-
-## 🛠 Tech Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,docker,redis,mongodb,postgres,git,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,redis,mongodb,postgres,git,rabbitmq" />
+</p>
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kbrkocygt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbrkocygt&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
